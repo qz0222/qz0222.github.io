@@ -3455,3 +3455,8 @@
   .bold {
     font-weight: bold;
   }
+
+  ul.icons.col{
+    display: flex;
+    flex-direction: column;
+  }
