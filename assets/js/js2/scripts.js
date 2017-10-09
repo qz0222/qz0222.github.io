@@ -23,7 +23,7 @@ window.onload = function() {
 
   var messages = [
     'Hi 👋',
-    'I\'m Zheng, a full-sttack developer',
+    'I\'m Zheng, a full-stack developer',
     'Thank you for visiting and taking the time to explore my website.',
     'You can learn more about my background, skills, portfolio, and experience',
     'or contact me for additional information.',
